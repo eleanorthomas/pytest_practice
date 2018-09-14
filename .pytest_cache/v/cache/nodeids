@@ -1,0 +1,6 @@
+[
+  "test_calc.py::test_add_numbers_1_2",
+  "test_calc.py::test_add_numbers_5_7",
+  "test_calc.py::test_add_numbers_0_4",
+  "test_calc.py::test_add_numbers_neg1_1"
+]
